@@ -1,0 +1,1 @@
+This program helps you track your workout routines, sets, reps, and weights. It lets you add exercises, record your progress, and review past workouts. Perfect for gym users who want to log their progress.
